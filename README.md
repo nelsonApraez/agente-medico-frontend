@@ -19,7 +19,7 @@ Este proyecto implementa un asistente médico impulsado por IA que puede:
 2. ✅ **Acceder a registros de pacientes** (requiere ID del paciente)
 3. ✅ **Analizar imágenes médicas** (requiere URL de imagen y contexto del paciente)
 
-El asistente utiliza **Claude Sonnet 4.5** (AWS Bedrock) y está equipado con herramientas especializadas para proporcionar información médica precisa y contextualizada.
+El asistente utiliza **Claude 3.5 Sonnet v2** (AWS Bedrock) y está equipado con herramientas especializadas para proporcionar información médica precisa y contextualizada.
 
 ---
 
